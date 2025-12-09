@@ -17,7 +17,7 @@ Understands natural commands like:
 
 “Spider increase volume”
 
-“Spider write a story in Notepad”
+“Spider open notepad and write a story”
 
 🤖 AI-Powered Intelligence (Gemini API)
 
@@ -271,3 +271,4 @@ python spider.py
 “Open notepad and write poem.”
 
 “SPIDER quit.”
+
